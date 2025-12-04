@@ -10,7 +10,7 @@
 
 
 # Output Graph
-![Uploading image.png…]()
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9a1e8e5a-20f7-448b-a1cb-ccb1bb063183" />
 
 
 
