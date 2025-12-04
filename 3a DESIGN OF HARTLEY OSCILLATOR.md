@@ -14,15 +14,15 @@
 
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+![WhatsApp Image 2025-12-04 at 10 47 58_4ff195d2](https://github.com/user-attachments/assets/b2535381-f71f-430c-9d51-aba4dde48737)
 
 # Graph
+![WhatsApp Image 2025-12-04 at 10 48 30_9a9b632d](https://github.com/user-attachments/assets/370f7c53-99ef-4c04-a351-00e51f3f9e94)
 
 
 # Sample images 
 
+![WhatsApp Image 2025-12-04 at 10 48 07_a721dd36](https://github.com/user-attachments/assets/0a70699f-75d5-45ef-b16b-f61c66958cc2)
 
 # Result
 
