@@ -5,13 +5,15 @@
  <img width="988" height="554" alt="image" src="https://github.com/user-attachments/assets/459926ea-df5a-42ff-b4ac-8baa60cbadf7" />
 
 # Circuit Diagram 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/be0cdfc0-9d64-4dc6-86cc-4e4e6a9d04ba" />
 
 
 
 # Output Graph
+![Uploading image.png…]()
 
 
 
 # Result
 
-
+Thus the simulation of  Tuned Collector Oscillator using LTspice is  done and verified successfully.
